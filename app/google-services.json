@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564882903593",
+    "project_id": "profound-coyote-170715"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564882903593:android:f899429cf7cf197d",
+        "android_client_info": {
+          "package_name": "googlelogin.akki.android.com.googleloginsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564882903593-mm7ehveorjlres7euo94ca9navvinal3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "564882903593-1o9ij812tkvmt9ualbvl7p7t0s46bvos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "googlelogin.akki.android.com.googleloginsample",
+            "certificate_hash": "08b623e451c661a096d10fb17be2b6ceb6db3b41"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQGWiXwHf3xgHfJJTS-68DG9jVqPwIT1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
